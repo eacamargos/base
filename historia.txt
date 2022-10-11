@@ -1,6 +1,6 @@
-Eduardo Alberto
-Camargo Sierra
-29 de marzo del 1989
-33 años
-Colombia
-Bogotá
+nombres: Eduardo Alberto
+apellidos: Camargo Sierra
+fecha de nacimiento: 29 de marzo del 1989
+edad: 33 años
+pais de nacimiento: Colombia
+ciudad de recidencia: Bogotá
